@@ -1,6 +1,4 @@
 # DockerLabs
-========================================
-
 Learn the essentials of Docker through a series of progressive labs.
 
 #### Prerequisites:
