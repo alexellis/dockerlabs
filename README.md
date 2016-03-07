@@ -1,18 +1,25 @@
-# dockerlabs
-Labs and workshops for learning the essentials of Docker.
+# DockerLabs
+========================================
 
-### Prerequisites 
-Please install Docker Toolbox before going any further.
+Learn the essentials of Docker through a series of progressive labs.
 
-[https://www.docker.com/products/docker-toolbox](https://www.docker.com/products/docker-toolbox)
+#### Prerequisites:
 
-### What's here?
+- [Install Docker Toolbox (Windows/Mac)](https://docs.docker.com/engine/installation/#on-osx-and-windows)
+- [Install Docker package (Linux)](https://docs.docker.com/engine/installation/)
+- [Git for Windows](https://git-scm.com/downloads)
 
-[DockerLabs.md](DockerLabs.md)
+#### What's here?
+- [DockerLabs.md](/DockerLabs.md) labs instructions
+- [Dockerfiles/](/Dockerfiles) samples used for the labs
 
-The instructions to follow for the labs.
+#### Additional resources:
 
-[Dockerfiles](/Dockerfiles/)
+* [Running an ASP.NET MVC application on Mono](http://www.mono-project.com/docs/web/aspnet/)
+* [Getting started with .NET Core on Docker](http://dotnet.github.io/getting-started/)
+* [Docker Compose](https://docs.docker.com/compose/overview/) seamless linking of multiple containers.
+* [Docker Swarm](https://docs.docker.com/swarm/overview/) documentation - native clustering of Docker hosts.
 
-The sample code for each lab.
+#### Suggestions/corrections?
 
+Please fork the repository and raise a pull request or create an issue.
