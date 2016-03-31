@@ -3,7 +3,7 @@ Fast-track your Docker skills through dozen progressive and practical labs.
 
 [Start the labs!](/DockerLabs.md)
 
-**All content in this repository is unofficial and has no affliation to Docker.**
+*All content in this repository is unofficial and has no affliation to Docker.*
 
 #### Prerequisites:
 
