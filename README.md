@@ -1,5 +1,5 @@
 # DockerLabs
-Fast-track your Docker skills through dozen progressive and practical labs.
+Fast-track your Docker skills through a dozen progressive and practical labs.
 
 [Start the labs!](/DockerLabs.md)
 
