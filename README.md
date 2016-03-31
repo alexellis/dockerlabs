@@ -1,5 +1,9 @@
 # DockerLabs
-Learn the essentials of Docker through a series of progressive labs.
+Fast-track your Docker skills through dozen progressive and pratical labs.
+
+[Start the labs!](/DockerLabs.md)
+
+**All content in this repository is unofficial and has no affliation to Docker.**
 
 #### Prerequisites:
 
