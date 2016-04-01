@@ -1,5 +1,10 @@
 # DockerLabs
 
+Other links:
+
+* [Pre-requisites](https://github.com/alexellis/dockerlabs/)
+* [Supporting blog article](http://blog.alexellis.io/dockerlabs/)
+
 ## Before we start
 
 If you have a Windows or Mac laptop, then you will need to install the Docker toolbox before continuing. This package installs [Oracle VirtualBox](https://www.virtualbox.org) along with a tiny Linux virtual machine called *boot2docker*. The *boot2docker* ISO is around 32MB and VirtualBox will provision a hard drive of around 20GB - this should be plenty for the labs.
@@ -526,7 +531,7 @@ hit_count 3
 
 See also: [Linking containers on docker.io](https://docs.docker.com/v1.8/userguide/dockerlinks/)
 
-## Lab 11a
+## Lab 12
 ### Persistence revisited with data containers
 
 In addition to mounting a path/folder from our host into a container, we can also mount a path or folder from another container. The container providing storage is called a *data-container*. This is useful because it means we can share data between containers and easily swap our application image and keep the data-container unchanged, since it only contains the data and no application code.
