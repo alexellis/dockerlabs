@@ -2,8 +2,9 @@
 
 10 Apr 2016
 
-This project has been re-named to HandsOnDocker make it clear that it is not an official part of the Docker trademark.
+This project was renamed to **HandsOnDocker** to comply with a polite request from Docker regarding their trademark.
 
+Don't worry, everything is still avilable at the project's new home.
 
 > Visit HandsOnDocker now to below to pick up where you left off.
 
