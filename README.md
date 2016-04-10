@@ -1,14 +1,14 @@
-### Looking for DockerLabs?
+## Looking for DockerLabs?
 
-10 Apr 2016
+**10 Apr 2016**
 
-This project was renamed to **HandsOnDocker** to comply with a polite request from Docker regarding their trademark.
+This project has moved!
 
-Don't worry, everything is still avilable at the project's new home.
+## [Visit HandsOnDocker now](https://github.com/alexellis/HandsOnDocker)
 
-> Visit HandsOnDocker now to below to pick up where you left off.
+Don't worry, everything is still avilable at the project's new home, so you can pick-up exactly where you left off.
 
-[HandsOnDocker repo](https://github.com/alexellis/HandsOnDocker)
+*This project was renamed to comply with a polite request from Docker regarding their trademark.*
 
 Thanks,
 
