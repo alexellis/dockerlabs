@@ -13,7 +13,7 @@ Looking for *DockerLabs*? This project has been re-named to make it clear that i
 - [Git for Windows](https://git-scm.com/downloads)
 
 #### What's here?
-- [DockerLabs.md](/Labs.md) labs instructions
+- [Labs.md](/Labs.md) labs instructions
 - [Dockerfiles/](/Dockerfiles) samples used for the labs
 
 #### Additional resources:
