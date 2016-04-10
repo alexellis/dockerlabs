@@ -1,9 +1,10 @@
-# DockerLabs
+# Hands-on Docker
 Fast-track your Docker skills through a dozen progressive and practical labs.
 
-[Start the labs!](/DockerLabs.md)
+Looking for *DockerLabs*? This project has been re-named to make it clear that it is not an official part of the Docker trademark.
 
-*All content in this repository is unofficial and has no affliation to Docker.*
+[Start the labs!](/Labs.md)
+
 
 #### Prerequisites:
 
@@ -12,7 +13,7 @@ Fast-track your Docker skills through a dozen progressive and practical labs.
 - [Git for Windows](https://git-scm.com/downloads)
 
 #### What's here?
-- [DockerLabs.md](/DockerLabs.md) labs instructions
+- [DockerLabs.md](/Labs.md) labs instructions
 - [Dockerfiles/](/Dockerfiles) samples used for the labs
 
 #### Additional resources:
